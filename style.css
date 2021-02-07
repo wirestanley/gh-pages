@@ -178,7 +178,7 @@ h2 {
   text-align: center;
   width: 60%;
   margin: 0 auto;
-  background: rgba(14, 2, 2, 0.116);                         /* black background */
+  background: rgba(14, 2, 2, 0.116);                         /* white background */
   padding: 30px;                             /* Internal space */
   border-radius: 4px;                        /* Small radius */
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
