@@ -118,13 +118,13 @@ h2 {
 
 #btn-work:hover {
   background: rgb(77, 5, 5);
-  color: rgb(7, 7, 7);
+  color: rgb(240, 228, 228);
   transition: 0.2s;
 }
 
 #btn-fun {
-  background-color: rgb(10, 10, 10);
-  border: 1px solid rgb(8, 8, 8);
+  background-color: rgb(241, 238, 238);
+  border: 1px solid rgb(119, 209, 17);
   border-radius: 4px;
   color: rgb(214, 28, 28);
   padding: 15px 32px;
